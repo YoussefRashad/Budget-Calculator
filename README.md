@@ -1,4 +1,4 @@
-# A Budget Calculator app,
+# A Budget Calculator App
 https://budget-calculator-youssef.netlify.app
 
 this app used to calculate different item types and save it in a browser to can show it again in another time.
